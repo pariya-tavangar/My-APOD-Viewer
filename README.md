@@ -8,10 +8,10 @@
 
 ## ✨ Features
 
-- 🚀 Fetches and displays NASA's official Astronomy Picture of the Day
-- 📅 View APODs from any date (current day by default)
-- 🔍 Search and explore historical astronomical images
-- 📝 Displays detailed explanations from NASA scientists
+-  Fetches and displays NASA's official Astronomy Picture of the Day
+-  View APODs from any date (current day by default)
+-  Search and explore historical astronomical images
+-  Displays detailed explanations from NASA scientists
 
 ![banner.png](.thumbnail/banner.png)
 
